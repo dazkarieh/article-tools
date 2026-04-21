@@ -6,10 +6,10 @@
     "name": "翡翠"
   },
   "content": {
-    "label": "烁皓的开源工具",
+    "label": "Law Gist",
     "title": "写作三件套：封面生成 + 公众号排版 + X 排版",
     "subtitle": "专注写作，其他的交给工具",
-    "author": "@eternityspring · 烁皓"
+    "author": "@夏律师"
   },
   "typography": {
     "labelSize": 2.5,
